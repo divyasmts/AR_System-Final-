@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\user\Downloads\Image Downloads\AR_System\(21-07-2017)\AR_System\AR_System\AR_System\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\user\Downloads\Image Downloads\AR_System\(21-07-2017)\AR_System\AR_System\AR_System\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\user\Downloads\Image Downloads\AR_System\(21-07-2017)\AR_System\AR_System\AR_System\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
